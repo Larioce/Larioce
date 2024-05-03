@@ -17,7 +17,7 @@ int main() {
 
     char ch[100];
     scanf("%s", ch);
-    printf("La taillede %s est %d", ch, my_strlen(ch));
+    printf("La taille de %s est %d", ch, my_strlen(ch));
     return 0;
 }
 
