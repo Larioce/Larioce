@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-#include "mathématiques.h"
+//#include "mathématiques.h"
 
-/*long double factoriel (long double facto) {
+long double factoriel (long double facto) {
     
     long double i;
     long double n = facto;
@@ -15,7 +15,7 @@
    
     return n;
   
-}*/
+}
 
 int main() {
     printf("Entrez le nombre dont vous voulez le factoriel : ");
