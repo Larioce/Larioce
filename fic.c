@@ -20,7 +20,7 @@ int main() {
    /*char c;
     while ((c = fgetc(fp)) != EOF) {
         printf("%c", c);
-
+	test
     }*/
 
     char str[MAX_BUFFER_SIZE];
